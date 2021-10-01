@@ -4,5 +4,8 @@
   },
   "wrongpass": {
   "status": false
-  }
+  },
+  "barcode": [
+    { "id": 1 },
+  ],
 }
