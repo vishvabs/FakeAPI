@@ -1,5 +1,8 @@
 {
   "login": {
     "status": true
+  },
+  "wrongpass": {
+  "status": false
   }
 }
