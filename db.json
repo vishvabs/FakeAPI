@@ -9,6 +9,6 @@
     { "id": 1 }
   ],
   "location": [
-    { "longitude": "7.8470935" , "latitude": "7.8470935"}
+    { "longitude": "7.8470935"} , {"latitude": "7.8470935"}
   ],
 }
