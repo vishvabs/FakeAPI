@@ -10,5 +10,8 @@
   ],
   "location": [
     { "id":1}
+  ],
+  "resetPassword": [
+    { "id":1}
   ]
 }
