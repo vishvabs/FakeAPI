@@ -8,9 +8,6 @@
   "barcode": [
     { "id": 1 }
   ],
-  "location": [
-    { "id":1}
-  ],
   "resetPassword": [
     { "id":1}
   ],
